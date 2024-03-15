@@ -8,7 +8,9 @@ El proyecto consiste en la elaboración de juego llamado: Ludo
 - Si la ficha cae en las casillas B1, B2 y B3; el jugador decide avanzar o retroceder 5 posiciones
 - Solo se dispone de un tipo de juego: Jugador 1 vs. CPU
 - El tablero del juego es el siguiente:
+  
   ![image](https://github.com/FabianaCastro/Juego-Ludo/assets/105995784/c6467aa0-501b-4410-a8b9-d30622564ab2)
+  
 - El programa debe solicitar el nombre del jugador; luego ir al menú de inicio, y seleccionar una de las siguientes opciones:
 Empezar el juego: empieza el juego
 Salir: finaliza el programa.
