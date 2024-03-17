@@ -1,4 +1,4 @@
-# tablero.py
+# tablero
 
 ANCHO = 11
 ALTO = 11
